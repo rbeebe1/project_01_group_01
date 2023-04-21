@@ -13,12 +13,11 @@ https://docs.google.com/presentation/d/1fp_bMJP9hUlN-NsGNYIihDWxOf1p1snYUQALyZLb
 
 # Project Description :
 
-Deep diving data sources that contains information on food allergens and allergies. The goal is to allow end users to select common ingredients that are in a list of recipes and see potential allergies that are associated with those recipes.
+This project aims to investigate the prevalence and severity of allergens in the US, and identify potential demographic biases that may exist. Specifically, we will analyze the impact of age, gender, and race on allergen severity, and compare severity grades across different demographics. Additionally, we will examine the break down of different food allergens per capita and identify the most common food allergens in the US. The insights gained from this study can help identify areas for improvement in allergy treatment and management, and ultimately improve the quality of life for individuals with allergies. 
 
 
 Data Sources:
 https://www.kaggle.com/datasets/boltcutters/food-allergens-and-allergies - https://spoonacular.com/food-api/docs - https://www.statista.com/statistics/1243167/common-allergies-us/
-
 
 
 ## Targeted Questions
