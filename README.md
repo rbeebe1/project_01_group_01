@@ -49,6 +49,10 @@ Does the year of birth affect the severity of allergens?
 - According to our analysis, the number of reported allergies among individuals born in the 1980s was notably low, but began to increase dramatically starting around 1990 and continued to do so until approximately 2005.
 ![image](https://user-images.githubusercontent.com/126538596/233524393-01206015-6ab5-4a7e-8ec6-c013eabde92c.png)
 
+Does being insured or uninsured result in higher counts of severe cases in food allergies?
+- Our analysis also shows that there is a correlation in the number of severe cases reported depending on whether the individual was on medicaid or not. Non-Medicaid individuals saw nearly three times the amount of severe cases.
+![image](https://user-images.githubusercontent.com/126538596/233526751-91379916-d6e6-4bd0-807a-1c6fcd5b918b.png)
+
 
 
 
