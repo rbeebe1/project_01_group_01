@@ -39,19 +39,20 @@ Does the year of birth affect the severity of allergens?
 ![image](https://user-images.githubusercontent.com/126538596/233526751-91379916-d6e6-4bd0-807a-1c6fcd5b918b.png)
 
 **What does the line on the graph signify regarding the relationship between birth year and peanut allergen levels, as determined by the linear regression analysis?**
-- According to the linear regression analysis, the line on this graph indicates a negative linear relationship between birth year and peanut allergen levels. Our research findings suggest that individuals born between 1985 and 1995 had a higher prevalence of peanut allergies. However, we lack sufficient information to determine the underlying cause of this trend.
+- According to the linear regression analysis, the line on this graph indicates a negative linear relationship between birth year and peanut allergen levels. Our research findings suggest that individuals born between 1985 and 1995 had a higher prevalence of peanut allergies.
 ![image](https://user-images.githubusercontent.com/126538596/233811071-69c00b20-6091-4254-bc4c-71184c715fcc.png)
 
 
 # API Overview :
+**Our Data provides users with a convenient and efficient means to search for a specific food item, and obtain valuable information about its ingredients. By selecting the specific type of food, the user can access a list of ingredients for that particular recipe, including potential allergens that may be present. This information can be particularly helpful for individuals with food allergies or intolerances, allowing them to make informed decisions about whether or not a recipe is safe for them to consume.**
 
- - The following is the data from our API, which can be utilized to search for a particular food item. In this instance, we have entered          "meatloaf" as the search query, and the resulting output prompts the user to select the type of meatloaf they wish to evaluate from the         available options.
+ - The following data can be utilized to search for a particular food item. In this instance, we have entered "meatloaf" as the search query, and the resulting output prompts the user to select the type of meatloaf they wish to evaluate from the available options.
 ![image](https://user-images.githubusercontent.com/126538596/233516549-c0f33a71-b5e6-4fb4-8174-c3acc947b8f6.png)
 
 -  Upon selecting the type of meatloaf, in this case, homemade meatloaf, it will display the corresponding ingredients for that   particular meatloaf recipe.
 ![image](https://user-images.githubusercontent.com/126538596/233516732-72e5ffc0-4231-4692-907b-acb0e3e0b41e.png)
 
-- Once the ingredients for the selected meatloaf recipe are displayed, it will also provide information on any potential food allergens that may be present in those ingredients. This can help individuals with food allergies or intolerances make informed decisions about whether or not the recipe is safe for them to consume.
+- Once the ingredients for the selected meatloaf recipe are displayed, it will also provide information on any potential food allergens that may be present in those ingredients.
 ![image](https://user-images.githubusercontent.com/126538596/233516881-968e997c-1436-49e8-bfad-60dee0f58a9e.png)
 
 
