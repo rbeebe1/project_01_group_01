@@ -15,10 +15,6 @@ https://docs.google.com/presentation/d/1fp_bMJP9hUlN-NsGNYIihDWxOf1p1snYUQALyZLb
 # Project Description :
  This project aims to investigate the prevalence and severity of allergens in the US, and identify potential demographic biases that may exist. Specifically, we will analyze the impact of age, gender, and race on allergen severity, and compare severity grades across different demographics. Additionally, we will examine the break down of different food allergens per capita and identify the most common food allergens in the US. The insights gained from this study can help identify areas for improvement in allergy treatment and management, and ultimately improve the quality of life for individuals with allergies. 
 
-## Targeted Questions
-What Are the Most Common Food Allergies in The United States? - Are certain food allergies more prevalent in certain genders?
- -Does being insured or uninsured result in higher counts of severe cases in food allergies? - Does the year of birth affect the severity of allergens?
-
 # Hypothesis
 There may be a correlation between demographic factors such as age, gender, and race and the severity of allergic reactions to different types of allergens. Additionally, the prevalence and severity of specific allergens may vary based on demographic factors.
 To test these hypotheses, we will collect and analyze data on allergen severity grades, demographic factors such as age, gender, and race, and the prevalence of different food allergens in the US. We will use statistical methods such as bar chart and pie chart to tests and examine the relationships between these variables.
@@ -65,5 +61,7 @@ In conclusion, our analysis suggests that demographic factors such as age, gende
 
 # Data Sources:
 
-https://www.kaggle.com/datasets/boltcutters/food-allergens-and-allergies - https://spoonacular.com/food-api/docs - https://www.statista.com/statistics/1243167/common-allergies-us/
+- https://www.kaggle.com/datasets/boltcutters/food-allergens-and-allergies
+- https://spoonacular.com/food-api/docs 
+- https://www.statista.com/statistics/1243167/common-allergies-us/
 
